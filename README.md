@@ -1,5 +1,10 @@
 # Frontend 2019
 
+## 대화방
+
+- [카카오톡 오픈챗](https://open.kakao.com/o/g7uRQnp)
+- [슬랙](https://fe-workspace.slack.com/messages/CD6QD337T/)
+
 ## Basics
 
 - [ ] basic html css js

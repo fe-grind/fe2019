@@ -22,8 +22,6 @@
 
 ## 스터디 로드맵
 
----
-
 ### Basics
 
 - [ ] basic html css js

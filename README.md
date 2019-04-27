@@ -18,7 +18,8 @@
 - [git](https://git-scm.com/) 설치
 - [github](https://github.com/)계정 - 오픈톡에 공유해주시면 됩니다.
 - 코드에디터: 쓰시던거 쓰셔두 됩니다. 스터디는 `VSCODE`로 진행합니다.
-  - [vscode setting](https://github.com/fe-grinder/fe2019/blob/master/settings/vscode.md) 하기
+  - [vscode setting](https://github.com/fe-grinder/fe2019/blob/master/settings/vscode.md)하기
+- [프로젝트 스타터킷](https://github.com/fe-grinder/starter-parcel)
 
 ## 스터디 로드맵
 
